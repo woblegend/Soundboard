@@ -30,7 +30,6 @@ for (let name in effect_groups) {
 // Specific soundboards
 var soundboards = {}
 soundboards.Car = [
-  './SB/Car/car 0 fast 1 tm 6 complete.mp3',
   './MP3/Car/car 1 door open.mp3',
   './MP3/Car/car 2 door close.mp3',
   './MP3/Car/car 3 handbrake release.mp3',
@@ -961,12 +960,4 @@ soundboards.Ear_Raped = [
   './MP3/EAR_RAPED/Thomas The Tank Engine Theme Song (Ear Rape).mp3',
   './MP3/EAR_RAPED/Titanic theme song  Ear Rape.mp3',
   './MP3/EAR_RAPED/Toy story theme (EAR RAPE).mp3',
-];
-
-soundboards.Hold_Music = [
-  './MP3/Hold_Music/Hold Music and On Hold Music 3 Hours of Best Music on Hold (Volume 1).mp3',
-  './MP3/Hold_Music/Hold Music and On Hold Music 1 Hour of Best Music on Hold (Volume 1).mp3',
-  './MP3/Hold_Music/Hold Music and On Hold Music 1 Hour of Best Music on Hold.mp3',
-  './MP3/Hold_Music/Hold Music with On Hold Music 1 Hour of Best Music on Hold Playlist.mp3',
-  './MP3/Hold_Music/Opus Number 1 The Famous Phone Hold Music.mp3',
 ];
