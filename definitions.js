@@ -160,7 +160,7 @@ soundboards.Paula_twococks = [
   './MP3/Paula/can you help me fixs it.mp3',
   './MP3/Paula/can you tell me what is wrong with myn accound.mp3',
   './MP3/Paula/Chase Bank bank.mp3',
-  './MP3/Paula/Come here you little shit Dont make me tell you again.mp3',
+  './MP3/Paula/Come here you little shit. Don't make me tell you again.mp3',
   './MP3/Paula/D .mp3',
   './MP3/Paula/D as in Delta.mp3',
   './MP3/Paula/damit why where calling me over and over again.mp3',
