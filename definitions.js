@@ -244,7 +244,7 @@ soundboards.Paula_twococks = [
   './MP3/Paula/ill have ultraviewer downloaded.mp3',
   './MP3/Paula/ill see a boxs say run.mp3',
   './MP3/Paula/ill see the run boxs.mp3',
-  './MP3/Paula/ill will beath you ass like a drum if you dont get back to your room.mp3',
+  './MP3/Paula/ill will beath you ass like a drum. if you dont get back to your room.mp3',
   './MP3/Paula/ip address.mp3',
   './MP3/Paula/is this amazon.mp3',
   './MP3/Paula/is this bestbuy.mp3',
