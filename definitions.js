@@ -73,6 +73,11 @@ soundboards.Store_Clerk = [
   './MP3/Store_Clerk/that is fine can i m have you with somthing els.mp3',
 ];
 
+soundboards.IRL_Rosie = [
+./MP3/IRLRosie/hello this is microsoft fraid detector.mp3
+./MP3/IRLRosie/to speak whit a repersenative press 2.mp3
+];
+
 soundboards.Paula_Twocockes = [
   './MP3/Paula/A as in Alfa.mp3',
   './MP3/Paula/B as in Bravo.mp3',
